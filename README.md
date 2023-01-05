@@ -1,32 +1,24 @@
-<h1 align="center">Hi 👋, I'm Sumita Pathak</h1>
-<h3 align="center">Currently exploring all domains of tech world</h3>
+### Hi there 👋, my name is Sumita
+#### I am front-end developer and a content writer.
+![I am front-end developer and a content writer.](https://in.images.search.yahoo.com/search/images;_ylt=AwrKAWu6BLdjoN8obH67HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=CODING+BANNER&fr2=piv-web&type=E211IN885G0&fr=mcafee#id=140&iurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp8587768.jpg&action=click)
+
+Currently I am exploring all domains of the tech world but am most interested in Blockchain.
+
+Skills: C/ Python/ HTML/ Content Writing/ Technical Writing/ CSS/ JAVA
+
+- 🔭 I’m currently working on Solidity Fundamentals repo 
+- 🌱 I’m currently learning **Solidity** 
+- 🤔 I’m looking for help with intenships/freelencing 
+- 💬 Ask me about Pyhton/ SQL/ Writing/ HTML/ C 
+- 📫 How to reach me: sumitapathak.bg@gmail.com 
 
 
-- 🔭 I’m currently working on **Solidity fundamentals repo**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SumiTechTo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://modmoneymindset.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumita-pathak-91699a215/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/httpsumita/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SumitaPathak1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sumitechto.github.io/CV/)  
 
-- 🌱 I’m currently learning **Solidity , Front-End Develpment**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-- 👨‍💻 All of my projects are available at [https://github.com/SumiTechTo](https://github.com/SumiTechTo)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SumiTechTo)  
 
-- 📝 I regularly write articles on [https://medium.com/@sumitapathak.bg](https://medium.com/@sumitapathak.bg)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=SumiTechTo)  
 
-- 💬 Ask me about **C, Python, SQL, Technical Writing**
-
-- 📫 How to reach me **sumitapathak.bg@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Mf27ODFAp4SZgR0ykeEOCSfZLtj5e8MOlSPOoBGXHM0/edit?usp=sharing](https://docs.google.com/document/d/1Mf27ODFAp4SZgR0ykeEOCSfZLtj5e8MOlSPOoBGXHM0/edit?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sumitapathak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumitapathak1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumita pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumita pathak" height="30" width="40" /></a>
-<a href="https://instagram.com/httpsumita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="httpsumita" height="30" width="40" /></a>
-<a href="https://hashnode.com/@modmoneyandmindset" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@modmoneyandmindset" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitechto&show_icons=true&locale=en&layout=compact" alt="sumitechto" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitechto&" alt="sumitechto" /></p>
+![Profile views](https://gpvc.arturio.dev/SumiTechTo)  
