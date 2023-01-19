@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sumita
 #### I am front-end developer and a content writer.
-![I am front-end developer and a content writer.](https://in.images.search.yahoo.com/search/images;_ylt=AwrKAWu6BLdjoN8obH67HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=CODING+BANNER&fr2=piv-web&type=E211IN885G0&fr=mcafee#id=140&iurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp8587768.jpg&action=click)
+
 
 Currently I am exploring all domains of the tech world but am most interested in Blockchain.
 
