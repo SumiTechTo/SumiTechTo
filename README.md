@@ -1,14 +1,14 @@
 ### Hi there 👋, my name is Sumita
-#### I am front-end developer and a content writer.
+#### I am a Blockchain Developer
 
 
-Currently I am exploring all domains of the tech world but am most interested in Blockchain.
 
-Skills: C/ Python/ HTML/ Content Writing/ Technical Writing/ CSS/ JAVA
+
+Skills: C / Python / HTML / Content Writing / Technical Writing / CSS / JAVA / Solidity / SQL / Community Management
 
 - 🔭 I’m currently working on Solidity Fundamentals repo 
-- 🌱 I’m currently learning **Solidity** 
-- 🤔 I’m looking for help with intenships/freelencing 
+- 🌱 I’m currently learning how to code and sleep at the same time
+- 🤔 I’m looking for help with intenships/freelancing 
 - 💬 Ask me about Pyhton/ SQL/ Writing/ HTML/ C 
 - 📫 How to reach me: sumitapathak.bg@gmail.com 
 
